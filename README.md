@@ -1,4 +1,4 @@
-# <center> PROJECT-1. Анализ вакансий из HeadHunter 
+# <center> PROJECT-2. Анализ вакансий из HeadHunter 
 
 ---
 ## ОПИСАНИЕ ЗАДАЧИ
